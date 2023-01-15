@@ -1,0 +1,6 @@
+/.idea/
+/tests/datasets/
+/tests/datasets/
+/model/datasets/
+/model/datasets/
+**/__pycache__/
